@@ -1,6 +1,6 @@
 # I love C
 
-![](\\wsl.localhost\Ubuntu\home\iliam\CProjects\hello\img\c_programming_logo.png)
+<img src="c_programming_logo.jpg" width="10%">
 
 Welcome to my C Programming Practice Repository! This repository is dedicated to my journey in learning and practicing the C programming language. Here, you'll find a collection of programs, exercises, and projects that I've worked on to enhance my understanding of C.
 
